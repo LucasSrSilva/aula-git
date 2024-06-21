@@ -2,3 +2,4 @@ a Turma 5 é 10!
 wow git pull!!!!!
 aaaaaa
 git fetch? qual a diferença?
+fiz uma nova branch!
